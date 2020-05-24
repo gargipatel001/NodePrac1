@@ -1,0 +1,11 @@
+{
+  "name": "nodeweek1prac",
+  "version": "1.0.0",
+  "description": "this is my first prac node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gargi Patel (N01324072)",
+  "license": "ISC"
+}
